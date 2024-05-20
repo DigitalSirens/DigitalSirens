@@ -11,6 +11,7 @@
 <div id='about-me'>
   <h1> 🌼 A little about us</h1>
   Caitlin is a Full Stack Developer and Graphic Designer from Raleigh, North Carolina. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
+</br>
   Stephanie is a Full Stack Developer from Raleigh, North Carolina. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="75">
 </br>
 </br>

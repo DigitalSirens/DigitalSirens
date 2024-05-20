@@ -24,7 +24,7 @@
 <h3>🐴 Fun facts: Caitlin has been riding and training horses for 20 years</h3>
 <h3>🐴 Fun facts: Stephanie's fun fact</h3>
 <h3>📬 How to reach us:</h3>
-- 📧 Email: <a href='mailto:digitalsirens@outlook.com'>caitlinramsey@outlook.com</a>
+- 📧 Email: <a href='mailto:digitalsirens@outlook.com'>digitalsirens@outlook.com</a>
 </br>
 <h1>:hammer_and_wrench: Languages and Tools:</h1>
   <div>

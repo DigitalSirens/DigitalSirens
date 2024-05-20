@@ -17,7 +17,8 @@
 </br>
   After graduating college in 2019 with a Bachelor of Science in Environmental Conservation and a Bachelor of Arts in New Media, Caitlin started working in graphic design. After a few years of jobs that were not well suited to what she was wanting to do, she decided to learn to code. She had always been interested in coding and did a small bit of learning on her own before enrolling in the 6-month Full Stack Development course she took.
 </br>
-  Stephanie's bio goes here
+</br>
+  *Stephanie's bio goes here*
 </div>
 </br>
 <h3>🐴 Fun facts: Caitlin has been riding and training horses for 20 years</h3>

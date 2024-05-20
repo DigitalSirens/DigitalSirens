@@ -50,9 +50,9 @@
 </div>
 <h1>:fire: My Stats:</h1>
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=digitalsirens&theme=modern-lilac2" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DigitalSirens&theme=modern-lilac2" alt="GitHub Streak" />
 </a>
 </br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digitalsirens&layout=compact&theme=jolly" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigitalSirens&layout=compact&theme=jolly" alt="Top Langs" />
 </a>

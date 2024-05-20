@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/igRW3jH2LcCVzMqi5F/giphy.gif" width="300"/>
 </div>
 <div id='hello' align='center'>
-  <h1>👋 Hi there, We're Digital Sirens, otherwise known as Caitlin and Stephanie.</h1>
+  <h1>👋 Hi there! </br> 
+    We're Digital Sirens, otherwise known as Caitlin and Stephanie.</h1>
 </div>
 <div align='center'>
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="1000" height="400"/>
